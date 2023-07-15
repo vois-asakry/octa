@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508363508770",
+    "project_id": "octa-3613f",
+    "storage_bucket": "octa-3613f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508363508770:android:d21ed4bea9e5bffd154e7b",
+        "android_client_info": {
+          "package_name": "com.souqocta.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508363508770-oi8ijrjuppck655t4uqlr2vm3pju4kuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.souqocta.www",
+            "certificate_hash": "bc7d75d3a1446b41eb253c1b8b9d50714285b4a9"
+          }
+        },
+        {
+          "client_id": "508363508770-4seaejcd4l14d6iros089c4k3nlcidvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdWIJ47G4fo9VKdzGIEnsSVjHhlEw0S2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508363508770-4seaejcd4l14d6iros089c4k3nlcidvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
