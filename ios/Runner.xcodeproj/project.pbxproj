@@ -860,7 +860,7 @@
 					"-framework",
 					Flutter,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.souqocta.www";
+				PRODUCT_BUNDLE_IDENTIFIER = "${iosBundleId}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
