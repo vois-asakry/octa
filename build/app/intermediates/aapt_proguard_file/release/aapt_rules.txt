@@ -43,7 +43,7 @@
 -keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
 -keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
 -keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
--keep class com.inspireui.fluxstore.MainActivity { <init>(); }
+-keep class com.souqocta.www.MainActivity { <init>(); }
 -keep class com.journeyapps.barcodescanner.CaptureActivity { <init>(); }
 -keep class com.lyokone.location.FlutterLocationService { <init>(); }
 -keep class com.onesignal.BootUpReceiver { <init>(); }

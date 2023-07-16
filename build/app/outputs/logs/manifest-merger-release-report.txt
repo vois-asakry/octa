@@ -1103,7 +1103,7 @@ INJECTED from D:\projects\octa new new\android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\projects\octa new new\android\app\src\main\AndroidManifest.xml
 		ADDED from D:\projects\octa new new\android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\projects\octa new new\android\app\src\main\AndroidManifest.xml
-activity#com.inspireui.fluxstore.MainActivity
+activity#com.souqocta.www.MainActivity
 ADDED from D:\projects\octa new new\android\app\src\main\AndroidManifest.xml:91:9-143:20
 	android:launchMode
 		ADDED from D:\projects\octa new new\android\app\src\main\AndroidManifest.xml:96:13-43

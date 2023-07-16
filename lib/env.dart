@@ -203,7 +203,7 @@ Map<String, dynamic> environment = {
     "isEnabled":true,
     "uriPrefix":"https://fluxstoreinspireui.page.link",
     "link":"https://mstore.io/",
-    "androidPackageName":"com.inspireui.fluxstore",
+    "androidPackageName":"com.souqocta.www",
     "androidAppMinimumVersion":1,
     "iOSBundleId":"com.inspireui.mstore.flutter",
     "iOSAppMinimumVersion":"1.0.1",

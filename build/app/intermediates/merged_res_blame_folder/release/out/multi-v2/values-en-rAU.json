@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.inspireui.fluxstore.app-mergeReleaseResources-63:/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "com.souqocta.www.app-mergeReleaseResources-63:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "C:\\Users\\askary\\.gradle\\caches\\transforms-3\\e91e3e6474f16718ac67937a4398499a\\transformed\\jetified-exoplayer-core-2.18.5\\res\\values-en-rAU\\values-en-rAU.xml",

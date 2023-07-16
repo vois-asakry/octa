@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.inspireui.fluxstore.app-mergeReleaseResources-63:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.souqocta.www.app-mergeReleaseResources-63:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\askary\\.gradle\\caches\\transforms-3\\fd896c0beb2e4f805edf70d074fb4c7c\\transformed\\jetified-play-services-auth-20.5.0\\res\\values-watch-v20\\values.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.inspireui.fluxstore.app-mergeReleaseResources-63:/values-v16/values-v16.xml",
+            "outputFile": "com.souqocta.www.app-mergeReleaseResources-63:/values-v16/values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\askary\\.gradle\\caches\\transforms-3\\ea1acf44f93ed7ef8aa90da832afd082\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",

@@ -100,7 +100,7 @@ okhttp3.RequestBody$Companion$asRequestBody$1
 com.razorpay.c$_2_
 com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
 com.razorpay.razorpay_flutter.R$layout
-com.inspireui.fluxstore.MainActivity
+com.souqocta.www.MainActivity
 com.razorpay.R$$r_
 com.pichillilorenzo.flutter_inappwebview.types.UserScript
 com.paytm.pgsdk.IntentServicePreNotification
@@ -43409,7 +43409,7 @@ com.google.android.gms.common.SignInButton: SignInButton(android.content.Context
 androidx.lifecycle.ReportFragment: void setProcessListener(androidx.lifecycle.ReportFragment$ActivityInitializationListener)
 androidx.fragment.app.FragmentTabHost: FragmentTabHost(android.content.Context)
 com.google.android.material.button.MaterialButton: void setIconSize(int)
-com.inspireui.fluxstore.MainActivity: MainActivity()
+com.souqocta.www.MainActivity: MainActivity()
 androidx.core.view.ViewCompat$Api19Impl: boolean isLaidOut(android.view.View)
 com.pichillilorenzo.flutter_inappwebview.types.WebMessagePort: void setWebMessageCallback(android.webkit.ValueCallback)
 com.google.android.recaptcha.internal.zzas: void zza(java.lang.String)

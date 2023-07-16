@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.inspireui.fluxstore.app-mergeReleaseResources-63:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.souqocta.www.app-mergeReleaseResources-63:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "D:\\projects\\octa new new\\android\\app\\src\\main\\res\\values-night\\styles.xml",

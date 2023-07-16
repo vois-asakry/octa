@@ -420,7 +420,7 @@
 216-->D:\projects\octa new new\android\app\src\main\AndroidManifest.xml:86:9-44
 217        <activity
 217-->D:\projects\octa new new\android\app\src\main\AndroidManifest.xml:91:9-143:20
-218            android:name="com.inspireui.fluxstore.MainActivity"
+218            android:name="com.souqocta.www.MainActivity"
 218-->D:\projects\octa new new\android\app\src\main\AndroidManifest.xml:92:13-41
 219            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 219-->D:\projects\octa new new\android\app\src\main\AndroidManifest.xml:93:13-163

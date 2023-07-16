@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.inspireui.fluxstore.app-mergeReleaseResources-63:/values-nl/values-nl.xml",
+            "outputFile": "com.souqocta.www.app-mergeReleaseResources-63:/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\askary\\.gradle\\caches\\transforms-3\\bc201200ea49f72e1b41ded2b4c0908b\\transformed\\jetified-play-services-basement-18.2.0\\res\\values-nl\\values.xml",

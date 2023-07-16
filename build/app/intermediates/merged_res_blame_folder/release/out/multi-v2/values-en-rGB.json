@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.inspireui.fluxstore.app-mergeReleaseResources-63:/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "com.souqocta.www.app-mergeReleaseResources-63:/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "C:\\Users\\askary\\.gradle\\caches\\transforms-3\\30435ff39a9531fdfedb7a15be102acc\\transformed\\material-1.6.0\\res\\values-en-rGB\\values-en-rGB.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.inspireui.fluxstore.app-mergeReleaseResources-63:/values-zh-rCN/values-zh-rCN.xml",
+            "outputFile": "com.souqocta.www.app-mergeReleaseResources-63:/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\askary\\.gradle\\caches\\transforms-3\\e91e3e6474f16718ac67937a4398499a\\transformed\\jetified-exoplayer-core-2.18.5\\res\\values-zh-rCN\\values-zh-rCN.xml",

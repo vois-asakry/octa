@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.inspireui.fluxstore.app-mergeReleaseResources-63:/values-si/values-si.xml",
+            "outputFile": "com.souqocta.www.app-mergeReleaseResources-63:/values-si/values-si.xml",
             "map": [
                 {
                     "source": "C:\\Users\\askary\\.gradle\\caches\\transforms-3\\166b4c877c6ed87298098e73ab9413a3\\transformed\\browser-1.4.0\\res\\values-si\\values-si.xml",

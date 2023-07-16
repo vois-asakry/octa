@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.inspireui.fluxstore.app-mergeReleaseResources-63:/values-ms/values-ms.xml",
+            "outputFile": "com.souqocta.www.app-mergeReleaseResources-63:/values-ms/values-ms.xml",
             "map": [
                 {
                     "source": "C:\\Users\\askary\\.gradle\\caches\\transforms-3\\63d77e2786b4924d90d08667201cb261\\transformed\\jetified-facebook-login-16.0.1\\res\\values-ms\\values-ms.xml",

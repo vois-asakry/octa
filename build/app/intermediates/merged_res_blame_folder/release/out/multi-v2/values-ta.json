@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.inspireui.fluxstore.app-mergeReleaseResources-63:/values-ta/values-ta.xml",
+            "outputFile": "com.souqocta.www.app-mergeReleaseResources-63:/values-ta/values-ta.xml",
             "map": [
                 {
                     "source": "C:\\Users\\askary\\.gradle\\caches\\transforms-3\\1d2f2bde625bc137b5554a3c54891882\\transformed\\biometric-1.1.0\\res\\values-ta\\values-ta.xml",
