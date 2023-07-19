@@ -44,6 +44,10 @@ Map<String, dynamic> environment = {
       "currencyCode":"usd",
       "smallestUnitRate":100
     },
+     "gdpr": {
+      "showDeleteAccount": true,
+      "confirmCaptcha": "PERMANENTLY DELETE"
+    },
     "Currencies":[
       {
         "symbol":"LE",
