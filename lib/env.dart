@@ -127,8 +127,8 @@ Map<String, dynamic> environment = {
     "IsRequiredLogin":false,
     "showAppleLogin":false,
     "showFacebook":false,
-    "showSMSLogin":true,
-    "showGoogleLogin":true,
+    "showSMSLogin":false,
+    "showGoogleLogin":false,
     "showPhoneNumberWhenRegister":false,
     "requirePhoneNumberWhenRegister":false
   },
